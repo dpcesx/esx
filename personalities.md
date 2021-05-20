@@ -1,0 +1,8 @@
+# Personalities
+
+Jared Palmer
+
+Sindrous
+
+
+
