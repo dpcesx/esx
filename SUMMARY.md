@@ -17,4 +17,5 @@
 ---
 
 * [Personalities](personalities.md)
+* [Events](events.md)
 
