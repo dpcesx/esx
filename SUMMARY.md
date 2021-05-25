@@ -1,8 +1,8 @@
 # Table of contents
 
-* [Welcome to ESX Docs](README.md)
+* [ESX Docs](README.md)
 * [Philosophies](philosophies.md)
-* [Open Source Software](open-source-software.md)
+* [Open Source](open-source.md)
 * [Public Clouds](public-clouds.md)
 
 ## Package Managers
@@ -17,5 +17,6 @@
 ---
 
 * [Personalities](personalities.md)
+* [Auxiliary Languages](auxiliary-languages.md)
 * [Events](events.md)
 

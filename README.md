@@ -2,7 +2,7 @@
 description: Single source of truth for the JavaScript ecosystem
 ---
 
-# Welcome to ESX Docs
+# ESX Docs
 
 Instead of searching dev questions online, imagine coming here and reading a consensus of answers, perspectives, and discussions covering the topic thoroughly with necessary background, historical context, references, and resources.
 
